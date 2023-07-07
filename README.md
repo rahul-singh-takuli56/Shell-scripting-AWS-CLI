@@ -1,7 +1,7 @@
 # Shell-scripting-AWS-CLI
-Shell scripting with the AWS Command Line Interface (CLI) involves using shell scripting languages, such as Bash, to automate interactions with AWS services through the command-line interface.
-The AWS CLI provides a set of commands and options that allow you to manage various AWS resources and services from the command line. By combining these commands with shell scripting, you can create powerful automation scripts to perform tasks such as provisioning resources, configuring services, deploying applications, and more.
+Shell scripting with the AWS Command Line Interface (CLI) involves using shell scripting languages like Bash to automate interactions with AWS services through the command-line interface.
 
+The provided shell script is designed to report the usage of various AWS resources using the AWS CLI.
 
 ## Installation
 
